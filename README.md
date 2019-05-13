@@ -16,8 +16,8 @@ Nagarajan, Tushar, and Kristen Grauman. "Attributes as operators: factorizing un
 If you find this repository useful in your own research, please consider citing both papers:
 
 ```
-@article{nagarajan2018attrop,
-  title={Attributes as Operators},
+@article{purushwalkam2019taskdriven,
+  title={Task-Driven Modular Networks for Zero-Shot Compositional Learning},
   author={Purushwalkam, Senthil and Nickel, Maximilian and Gupta, Abhinav and Ranzato, Marc'Aurelio},
   journal={arXiv},
   year={2019}
