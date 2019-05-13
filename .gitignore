@@ -1,0 +1,11 @@
+*.*~
+*.pkl
+*.t7
+*.pyc 
+*.txt
+
+tensor-completion/
+cv/
+data/mit-states/
+data/glove/
+data/ut-zap50k
