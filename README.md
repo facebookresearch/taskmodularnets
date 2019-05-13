@@ -16,7 +16,12 @@ Nagarajan, Tushar, and Kristen Grauman. "Attributes as operators: factorizing un
 If you find this repository useful in your own research, please consider citing both papers:
 
 ```
-TODO TODO
+@article{nagarajan2018attrop,
+  title={Attributes as Operators},
+  author={Purushwalkam, Senthil and Nickel, Maximilian and Gupta, Abhinav and Ranzato, Marc'Aurelio},
+  journal={arXiv},
+  year={2019}
+}
 
 @article{nagarajan2018attrop,
   title={Attributes as Operators},
