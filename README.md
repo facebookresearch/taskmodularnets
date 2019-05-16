@@ -5,8 +5,9 @@
 This is the code accompanying the work:  
 
 Task-Driven Modular Networks for Zero-Shot Compositional Learning<br/>
-Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc'Aurelio Ranzato<br/>
-Preprint<br/>
+*Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc'Aurelio Ranzato<br/>
+arXiv preprint arXiv:1905.05908<br/>*
+[Webpage](http://www.cs.cmu.edu/~spurushw/projects/compositional.html) | [Paper](https://arxiv.org/abs/1905.05908) <br/>
 
 The repository began as a fork of the [codebase](https://github.com/Tushar-N/attributes-as-operators) which accompanies the interesting related work by Nagarajan et. al:<br/>
 Nagarajan, Tushar, and Kristen Grauman. "Attributes as operators: factorizing unseen attribute-object compositions." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
@@ -19,7 +20,7 @@ If you find this repository useful in your own research, please consider citing 
 @article{purushwalkam2019taskdriven,
   title={Task-Driven Modular Networks for Zero-Shot Compositional Learning},
   author={Purushwalkam, Senthil and Nickel, Maximilian and Gupta, Abhinav and Ranzato, Marc'Aurelio},
-  journal={arXiv},
+  journal={arXiv preprint arXiv:1905.05908},
   year={2019}
 }
 
@@ -74,4 +75,4 @@ python test_modular.py --name tmn  --model modularpretrained --compose_type nn -
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
-taskmodularnets is MIT licensed, as found in the LICENSE file.
+taskmodularnets is Creative Commons Attribution Non-Commercial Licensed, as found in the LICENSE file.
