@@ -36,7 +36,6 @@ If you find this repository useful in your own research, please consider citing 
 ## Prerequisites
 The code is written and tested using Python (3.6) and PyTorch (v1.0). 
 
-**Packages**: Install using `pip install -r utils/requirements.txt`
 
 **Datasets and Features**: We include a script to download all the necessary data: images, features and metadata for the two datasets, pretrained SVM classifier weights and pretrained models. It must be run before training the models. We also download the splits suggested in related work and the new splits proposed in our work. 
 
